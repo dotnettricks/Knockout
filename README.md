@@ -9,3 +9,8 @@ Knockout - Objects, Attributes, Events, Observable, Data-binding, Templates, Com
 As you know Knockout is a javascript library that allow you to bind html elements to any data model. You can also use Knockout for Insert, Update, Delete and Retrieve operations. This article will demonstrate, how to use Knockout with MVC4 for CRUD (Create, Read, Update, Delete) Operations.
 
 Link : https://www.dotnettricks.com/learn/knockout/knockout-crud-operations-using-mvc4
+
+### Web API CRUD Operations with Knockout
+In previous article, I have explained Knockout CRUD Operations using MVC4. In this article, I will demonstrate, how to use Knockout with Web API for CRUD (Create, Read, Update, Delete) Operations.
+
+Link : https://www.dotnettricks.com/learn/knockout/web-api-crud-operations-with-knockout
